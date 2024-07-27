@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Movies-Recommender-System
+Version: 0.1.0
+Summary: A comprehensive Movies Recommender System utilizing collaborative filtering and content-based filtering techniques to provide personalized movie recommendations.
+Author: Satendra Singh
+Author-email: satendrasinghcse@gmail.com
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: ipykernel
+Requires-Dist: dask
+Requires-Dist: scikit-learn
+Requires-Dist: toml
+Requires-Dist: flask

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Movies_Recommender_System.egg-info/PKG-INFO
+Movies_Recommender_System.egg-info/SOURCES.txt
+Movies_Recommender_System.egg-info/dependency_links.txt
+Movies_Recommender_System.egg-info/requires.txt
+Movies_Recommender_System.egg-info/top_level.txt
