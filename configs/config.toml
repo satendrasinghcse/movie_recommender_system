@@ -1,0 +1,10 @@
+[data]
+raw_data_path = "data/raw/raw_data.csv"
+processed_data_path = "data/processed/processed_data.csv"
+
+
+
+[artifacts]
+movies_list_path = "artifacts/movies_list.pkl"
+similarity_path = "artifacts/similarity.pkl"
+
